@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "https://laurenbmcguire.github.io/csb-yfhznf/static/css/main.e60354ee.chunk.css",
+    "main.js": "https://laurenbmcguire.github.io/csb-yfhznf/static/js/main.1e570f1b.chunk.js",
+    "main.js.map": "https://laurenbmcguire.github.io/csb-yfhznf/static/js/main.1e570f1b.chunk.js.map",
+    "runtime-main.js": "https://laurenbmcguire.github.io/csb-yfhznf/static/js/runtime-main.8e88f1db.js",
+    "runtime-main.js.map": "https://laurenbmcguire.github.io/csb-yfhznf/static/js/runtime-main.8e88f1db.js.map",
+    "static/css/2.e4ecef63.chunk.css": "https://laurenbmcguire.github.io/csb-yfhznf/static/css/2.e4ecef63.chunk.css",
+    "static/js/2.099fd6e2.chunk.js": "https://laurenbmcguire.github.io/csb-yfhznf/static/js/2.099fd6e2.chunk.js",
+    "static/js/2.099fd6e2.chunk.js.map": "https://laurenbmcguire.github.io/csb-yfhznf/static/js/2.099fd6e2.chunk.js.map",
+    "index.html": "https://laurenbmcguire.github.io/csb-yfhznf/index.html",
+    "precache-manifest.052146ff6bb5cf06974f52084a9a3949.js": "https://laurenbmcguire.github.io/csb-yfhznf/precache-manifest.052146ff6bb5cf06974f52084a9a3949.js",
+    "service-worker.js": "https://laurenbmcguire.github.io/csb-yfhznf/service-worker.js",
+    "static/css/2.e4ecef63.chunk.css.map": "https://laurenbmcguire.github.io/csb-yfhznf/static/css/2.e4ecef63.chunk.css.map",
+    "static/css/main.e60354ee.chunk.css.map": "https://laurenbmcguire.github.io/csb-yfhznf/static/css/main.e60354ee.chunk.css.map",
+    "static/js/2.099fd6e2.chunk.js.LICENSE.txt": "https://laurenbmcguire.github.io/csb-yfhznf/static/js/2.099fd6e2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8e88f1db.js",
+    "static/css/2.e4ecef63.chunk.css",
+    "static/js/2.099fd6e2.chunk.js",
+    "static/css/main.e60354ee.chunk.css",
+    "static/js/main.1e570f1b.chunk.js"
+  ]
+}
